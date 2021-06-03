@@ -1,5 +1,5 @@
 ### Hi there I'm Prashant👋
- i would like to learn more on web development and wanting to increase my knowledge on computer science as well.
+ - **i would like to learn more on web development and wanting to increase my knowledge on computer science as well.**
 
 
 
