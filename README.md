@@ -1,4 +1,4 @@
-### Hi there I'm Prashant👋
+### Hi there I'm Prashant  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    **i would like to learn more on web development and wanting to increase my knowledge on computer science as well.**
 
 
