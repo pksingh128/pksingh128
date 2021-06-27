@@ -21,5 +21,5 @@
 
 ***
 ### Show some ❤️ by starring some of the repositories!
-  <img height="120" alt=" " width="100%"  src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img height="80" alt=" " width="100%"  src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
